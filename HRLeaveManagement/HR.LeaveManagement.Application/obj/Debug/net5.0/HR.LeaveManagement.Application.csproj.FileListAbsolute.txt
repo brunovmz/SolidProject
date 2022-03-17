@@ -1,0 +1,15 @@
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\HR.LeaveManagement.Application.deps.json
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\HR.LeaveManagement.Application.dll
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\ref\HR.LeaveManagement.Application.dll
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\HR.LeaveManagement.Application.pdb
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\HR.LeaveManagement.Domain.dll
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\bin\Debug\net5.0\HR.LeaveManagement.Domain.pdb
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.csproj.CopyComplete
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.dll
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\ref\HR.LeaveManagement.Application.dll
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Application\obj\Debug\net5.0\HR.LeaveManagement.Application.pdb

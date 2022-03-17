@@ -1,0 +1,12 @@
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Infrastructure\bin\Debug\net5.0\HR.LeaveManagement.Infrastructure.deps.json
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Infrastructure\bin\Debug\net5.0\HR.LeaveManagement.Infrastructure.dll
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Infrastructure\bin\Debug\net5.0\ref\HR.LeaveManagement.Infrastructure.dll
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Infrastructure\bin\Debug\net5.0\HR.LeaveManagement.Infrastructure.pdb
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net5.0\HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net5.0\HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net5.0\HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net5.0\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net5.0\HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net5.0\HR.LeaveManagement.Infrastructure.dll
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net5.0\ref\HR.LeaveManagement.Infrastructure.dll
+B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net5.0\HR.LeaveManagement.Infrastructure.pdb
