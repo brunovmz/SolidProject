@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {}
+    "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {}
   },
   "projects": {
-    "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+    "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "projectUniqueName": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
         "projectName": "HR.LeaveManagement.Domain",
-        "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Domain\\obj\\",
+        "outputPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

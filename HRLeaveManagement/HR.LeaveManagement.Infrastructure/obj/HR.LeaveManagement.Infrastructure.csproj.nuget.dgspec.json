@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj": {}
+    "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj": {}
   },
   "projects": {
-    "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+    "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+        "projectUniqueName": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
         "projectName": "HR.LeaveManagement.Application",
-        "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+        "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Application\\obj\\",
+        "outputPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
-                "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
+              "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+                "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
               }
             }
           }
@@ -75,18 +75,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+    "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "projectUniqueName": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
         "projectName": "HR.LeaveManagement.Domain",
-        "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Domain\\obj\\",
+        "outputPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -132,18 +132,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj": {
+    "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
+        "projectUniqueName": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
         "projectName": "HR.LeaveManagement.Infrastructure",
-        "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
+        "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Infrastructure\\obj\\",
+        "outputPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -163,8 +163,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
-                "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+              "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+                "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
               }
             }
           }
@@ -203,7 +203,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

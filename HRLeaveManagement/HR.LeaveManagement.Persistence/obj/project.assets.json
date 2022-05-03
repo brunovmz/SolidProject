@@ -6022,11 +6022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
+      "projectUniqueName": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
       "projectName": "HR.LeaveManagement.Persistence",
-      "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
+      "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
       "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-      "outputPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Persistence\\obj\\",
+      "outputPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6046,8 +6046,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
-              "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+            "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+              "projectPath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
             }
           }
         }
@@ -6090,7 +6090,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

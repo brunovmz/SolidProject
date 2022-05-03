@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DwmmvnncbWQ+C3bv9KvA9kmUqtCOUoRMgV2ju+4ebJHZFEDWhNiG+N3sTl9pYNNZS2NDvQI9TxrOQyYs6b1X5g==",
+  "dgSpecHash": "aa6X8klkVLOSlsd6Xyp8mBepZN/xzVp/Y+Y8i1cUtoy5H368yluQ4UIwoWIIhpNA1s7VyGJCJMFHaOWmVOiomQ==",
   "success": true,
-  "projectFilePath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+  "projectFilePath": "B:\\Bruno\\Documents\\EjerciciosUdemy\\SolidProject\\HRLeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

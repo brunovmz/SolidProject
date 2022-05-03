@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = HR.LeaveManagement.Domain
-build_property.ProjectDir = B:\Bruno\Documents\EjerciciosUdemy\HRLeaveManagement\HR.LeaveManagement.Domain\
+build_property.ProjectDir = B:\Bruno\Documents\EjerciciosUdemy\SolidProject\HRLeaveManagement\HR.LeaveManagement.Domain\
