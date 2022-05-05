@@ -11,6 +11,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using HR.LeaveManagement.Application;
+using HR.LeaveManagement.Infrastructure;
+using HR.LeaveManagement.Persistence;
 
 namespace HR.LeaveManagement.Api
 {
@@ -26,11 +29,18 @@ namespace HR.LeaveManagement.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.ConfigureApplicationServices();
+            services.ConfigureInfrastructureServices(Configuration);
+            services.ConfigurePersistenceServices(Configuration);
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "HR.LeaveManagement.Api", Version = "v1" });
+            });
+
+            services.AddCors(o =>
+            {
+                o.AddPolicy("CorsPolicy", builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
             });
         }
 
@@ -49,6 +59,8 @@ namespace HR.LeaveManagement.Api
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors("CorsPolicy");
 
             app.UseEndpoints(endpoints =>
             {
