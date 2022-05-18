@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
 using HR.LeaveManagement.MVC.Contracts;
@@ -25,12 +24,14 @@ namespace HR.LeaveManagement.MVC.Services
 
         public async Task<List<LeaveTypeVM>> GetLeaveTypes()
         {
+            AddBearerToken();
             var leaveTypes = await _client.LeaveTypesAllAsync();
             return _mapper.Map<List<LeaveTypeVM>>(leaveTypes);
         }
 
         public async Task<LeaveTypeVM> GetLeaveTypeDetails(int id)
         {
+            AddBearerToken();
             var leaveType = await _client.LeaveTypesGETAsync(id);
             return _mapper.Map<LeaveTypeVM>(leaveType);
         }
@@ -40,7 +41,8 @@ namespace HR.LeaveManagement.MVC.Services
             try
             {
                 var response = new Response<int>();
-                CreateLeaveTypeDto createLeaveTypeDto = _mapper.Map<CreateLeaveTypeDto>(leaveType);
+                var createLeaveTypeDto = _mapper.Map<CreateLeaveTypeDto>(leaveType);
+                AddBearerToken();
                 var apiResponse = await _client.LeaveTypesPOSTAsync(createLeaveTypeDto);
                 if (apiResponse.Success)
                 {
@@ -67,7 +69,8 @@ namespace HR.LeaveManagement.MVC.Services
         {
             try
             {
-                LeaveTypeDto leaveTypeDto = _mapper.Map<LeaveTypeDto>(leaveType);
+                var leaveTypeDto = _mapper.Map<LeaveTypeDto>(leaveType);
+                AddBearerToken();
                 await _client.LeaveTypesPUTAsync(id, leaveTypeDto);
                 return new Response<int>() {Success = true};
             }
@@ -81,6 +84,7 @@ namespace HR.LeaveManagement.MVC.Services
         {
             try
             {
+                AddBearerToken();
                 await _client.LeaveTypesDELETEAsync(id);
                 return new Response<int>() {Success = true};
             }
