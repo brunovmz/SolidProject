@@ -1,4 +1,3 @@
-using System;
 
 namespace HR.LeaveManagement.MVC.Models
 {
